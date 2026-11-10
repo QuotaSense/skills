@@ -13,3 +13,7 @@ Needs QuotaSense installed, with `"agent_log": true` in its `config.json`. When 
 - **Other agents (Codex and others):** add the text of `agent-log/AGENTS.md` to your `AGENTS.md`.
 
 The log never holds prompt text, replies, file contents, secrets or project names. Lines are at most 80 characters.
+
+## Licence
+
+MIT. See `LICENSE`.
